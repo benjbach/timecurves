@@ -1,3 +1,11 @@
+/////////////////////////////////////////////////////
+// Github: https://github.com/benjbach/timecurves  //
+// Website: www.aviz.fr/~bbach/timecurves          //
+// Contact: benj.bach@gmail.com                    //
+// Contact: shiconglei@gmail.com                   //
+////////////////////////////////////////////////////
+
+
 Date.prototype.customFormat = function (formatString) {
   var YYYY, YY, MMMM, MMM, MM, M, DDDD, DDD, DD, D, hhh, hh, h, mm, m, ss, s, ampm, AMPM, dMod, th;
   var dateObject = this;

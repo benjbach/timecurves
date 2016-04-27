@@ -1,3 +1,11 @@
+/////////////////////////////////////////////////////
+// Github: https://github.com/benjbach/timecurves  //
+// Website: www.aviz.fr/~bbach/timecurves          //
+// Contact: benj.bach@gmail.com                    //
+// Contact: shiconglei@gmail.com                   //
+/////////////////////////////////////////////////////
+
+
 function CurvePile(file, id, isGallery, elementId) {
 
     // width of slider to turn curve into timeline
@@ -428,9 +436,6 @@ function CurvePile(file, id, isGallery, elementId) {
             .on('mouseout', function(){
                 _this.svg.selectAll('.downloadLabel').remove()
             })
-
-
-        // if (!this.isGallery) {
 
             var drag = d3.behavior.drag()
                 .origin(Object)

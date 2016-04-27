@@ -50,6 +50,13 @@ session_start();
    	<script src="colors.js"></script>
     <script>
 
+	/////////////////////////////////////////////////////
+	// Github: https://github.com/benjbach/timecurves  //
+	// Website: www.aviz.fr/~bbach/timecurves          //
+	// Contact: benj.bach@gmail.com                    //
+	// Contact: shiconglei@gmail.com                   //
+	/////////////////////////////////////////////////////
+
 
 	DATASETS = []
 
