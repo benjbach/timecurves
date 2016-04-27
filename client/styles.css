@@ -1,0 +1,196 @@
+body{
+	font-size: 11pt;
+}
+
+a{
+	color:#E46949;
+}
+/**********************/
+
+
+div#top{
+	margin-top: 30px;
+	min-height: 70px;
+}
+
+div#main{
+	text-align: center;
+	width: 1000px;
+	margin-left: auto;
+    margin-right: auto;
+}
+div#svgExamples1{
+	height:400px;
+}
+
+div.center{
+	margin:auto;
+	width: 600px;
+}
+div.large{
+	width: 1000px;
+	margin:auto;
+}
+
+div#bottom{
+	float:right;
+	width:100%;
+}
+
+div#svgDiv{
+	width: 90%;
+	margin: auto;
+}
+
+div.tileDiv{
+	margin:10px;
+}
+
+div.fineBorder{
+	border: 1px solid #eeeeee;
+}
+
+img.testimage{
+	width:1000px;
+}
+
+div#menu{
+	margin-top: -50px;
+	margin-bottom: 50px;
+	width: 1000px;
+}
+
+div#menu > a{
+	margin-right: 30px;
+	margin-left: 5px;
+}
+
+div#history img{
+	width: 250px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+
+.inconvenience{
+	border: red 1px solid;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+table{
+	text-align: left;
+	border-spacing: 50px;
+	margin:auto;
+	border-collapse: separate;
+}
+
+td{
+	vertical-align: top;
+	width: 400px;
+}
+
+
+/**********************/
+
+img#folding{
+	width: 400px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+img.galleryPNG{
+	width: 250px;
+	margin: 30px;
+}
+
+
+/**********************/
+
+h1, h2, h3{
+	font-family: 'Comfortaa', Helvetica, sans-serif;
+}
+
+h2{
+	text-align: center;
+	margin-top: 80px;
+	margin-bottom: 40px;
+}
+
+h3{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+
+p{
+	font-weight: 100;
+	line-height: 1.3em;
+	text-align: left;
+	width: 100%;
+	max-width: 600px;
+	margin:auto;
+}
+
+
+
+.inputformat{
+	font-size: 10pt;
+	font-family: monospace;	
+}
+
+pre{
+	width: 600px;
+	margin: auto;
+	margin-top:20px;
+	text-align: left;
+	border: dashed 1px #cccccc;
+}
+
+p.authors{
+	font-style: italic;
+	text-align: center;
+	/*width: 1000px;*/
+}
+
+div#history{
+	text-align: left;
+}
+
+div#history img{
+	float:left;
+}
+
+p.note{
+	border: solid 1px #eeeeee;
+	padding:10px;
+
+}
+
+/*********************/
+
+div.tileDiv{
+	padding: 30px;
+	text-align: left;
+}
+.curveButton{
+	fill:#333;
+	text-decoration: underline;
+	cursor: pointer;
+}
+.commentsBox{
+	margin-top: 0px;
+	text-align: left;
+
+}
+
+.folding_slider{
+	position: fixed;
+	left: 200px;
+	top: 10px;
+}
+
+
+
+
+
+
