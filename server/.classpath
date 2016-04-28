@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="fr/aviz/progresio/server/clustering/|fr/aviz/progresio/server/clustering/hac/|fr/aviz/progresio/server/clustering/hac/agglomeration/|fr/aviz/progresio/server/clustering/hac/dendogram/|fr/aviz/progresio/server/clustering/hac/experiment/|fr/aviz/progresio/server/logs/|fr/aviz/progresio/server/diff/" kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/colt.jar"/>
+	<classpathentry kind="lib" path="lib/core.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/Jama-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/jbox2d-2.0.1-full.jar"/>
+	<classpathentry kind="lib" path="lib/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jython.jar"/>
+	<classpathentry kind="lib" path="lib/mdsj.jar"/>
+	<classpathentry kind="lib" path="lib/ocutil-2.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/pca_transform-0.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/shared.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
