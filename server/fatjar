@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Sep 27 17:13:14 PDT 2015
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=fold_distanceMatrix2.jar
+manifest.mergeall=true
+manifest.mainclass=fr.aviz.progresio.server.matrixImport.DistanceMatrixImporter
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

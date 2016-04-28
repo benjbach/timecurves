@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/fr/aviz/progresio/server/clustering/BarJoseph.java=UTF-8
+encoding//src/fr/aviz/progresio/server/diff/MyersDiff.java=UTF-8
+encoding//src/fr/aviz/progresio/server/diff/PonsDiff.java=UTF-8
+encoding//src/fr/aviz/progresio/server/diff/RatcliffDiff.java=UTF-8
+encoding//src/fr/aviz/progresio/server/export/WikiExporter.java=UTF-8
+encoding//src/fr/aviz/progresio/server/wikipedia/WikipediaDownloader.java=UTF-8
